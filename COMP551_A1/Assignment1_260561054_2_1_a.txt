@@ -1,0 +1,2 @@
+MSE for Training set (No regularization) = 6.474753981824253
+MSE for Validation set (No regularization) = 1414.3778093802093

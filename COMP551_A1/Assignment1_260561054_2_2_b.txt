@@ -1,0 +1,1 @@
+The test MSE based on λ = 0.02 is 10.730218400927383
