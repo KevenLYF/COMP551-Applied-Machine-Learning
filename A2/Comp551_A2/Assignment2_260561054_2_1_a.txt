@@ -1,0 +1,4 @@
+Accuracy = 0.95875
+Precision = 0.9508599508599509
+Recall = 0.9675
+F1 measure = 0.9591078066914498
