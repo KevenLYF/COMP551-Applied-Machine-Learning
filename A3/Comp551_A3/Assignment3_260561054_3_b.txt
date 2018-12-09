@@ -1,0 +1,31 @@
+Gaussian Naive Bayes
+No hyper parameters used
+
+
+Decision Tree
+
+range for min_sample_split, base = 1.0, multiply = 0.7, iteration = 15
+
+min_sample_split = 1.0
+for i in range(15):
+    min_sample_split *= 0.7
+
+range for max_depth = range(1, 16)
+
+The best F1 measure  = 0.408
+max_depth = 8
+min_sample_split = 0.006782230728489994
+
+
+Linear SVM
+range for C, base = 1.0, multiply = 1.2, iteration = 30
+
+c = 1.0
+for i in range(30):
+    c *= 1.2
+Dual = [True, False]
+
+The F1 measure = 0.508  
+C = 12.839184645488634
+Dual = False
+

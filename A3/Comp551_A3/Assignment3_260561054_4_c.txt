@@ -1,0 +1,37 @@
+Bernoulli Naive Bayes
+range for Alpha, base = 1.0, multiply = 0.8, iteration = 25
+
+a = 1.0
+for i in range(25):
+    a *= 0.8
+
+The best smoothing parameter alpha = 0.08589934592000005 
+F1 measure  = 0.8438312337532493
+
+
+Decision Tree
+range for min_sample_split, base = 1.0, multiply = 0.7, iteration = 15
+
+min_sample_split = 1.0
+for i in range(15):
+    min_sample_split *= 0.7
+
+range for max_depth = range(1, 16)
+
+The best F1 measure  = 0.6959608078384323 
+max_depth = 6
+min_sample_split = 0.04035360699999998
+
+
+Linear SVM
+range for C, base = 1.0, multiply = 0.8, iteration = 25
+
+c = 0.7
+for i in range(25):
+    c *= 0.7
+Dual = [True, False]
+
+The F1 measure = 0.8787242551489702 
+C = 0.004747561509942996
+Dual = False
+

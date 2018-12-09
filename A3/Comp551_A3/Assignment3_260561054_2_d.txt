@@ -1,0 +1,14 @@
+Bernoulli Naive Bayes
+(BBOW) Training F1 Measure of Bernoulli NB with best hyper-parameter = 0.7382857142857144
+(BBOW) Validation F1 Measure of Bernoulli NB with best hyper-parameter = 0.421
+(BBOW) Testing F1 Measure of Bernoulli NB with best hyper-parameter = 0.4455
+
+Decision Tree
+(BBOW) Training F1 Measure of Decision Tree with best hyper-parameter = 0.46514285714285714
+(BBOW) Validation F1 Measure of Decision Tree with best hyper-parameter = 0.41999999999999993
+(BBOW) Testing F1 Measure of Decision Tree with best hyper-parameter = 0.418
+
+Linear SVM
+(BBOW) Training F1 Measure of Linear SVM with best hyper-parameter = 0.8435714285714284
+(BBOW) Validation F1 Measure of Linear SVM with best hyper-parameter = 0.513
+(BBOW) Testing F1 Measure of Linear SVM with best hyper-parameter = 0.5085

@@ -1,0 +1,14 @@
+Gaussian Naive Bayes
+(FBOW) Training F1 Measure of Gaussian NB = 0.8565620209291475
+(FBOW) Validation F1 Measure of Gaussian NB = 0.7521495700859829
+(FBOW) Testing F1 Measure of Gaussian NB = 0.681148983837414
+
+Decision Tree
+(FBOW) Training F1 Measure of Decision Tree with best hyper-parameter = 0.706125441578351
+(FBOW) Validation F1 Measure of Decision Tree with best hyper-parameter = 0.6993601279744052
+(FBOW) Testing F1 Measure of Decision Tree with best hyper-parameter = 0.7032325172027525
+
+Linear SVM
+(FBOW) Training F1 Measure of Linear SVM with best hyper-parameter = 0.9186829300806505
+(FBOW) Validation F1 Measure of Linear SVM with best hyper-parameter = 0.876124775044991
+(FBOW) Testing F1 Measure of Linear SVM with best hyper-parameter = 0.8739398303728596

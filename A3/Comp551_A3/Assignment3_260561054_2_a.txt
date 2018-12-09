@@ -1,0 +1,2 @@
+Uniform Random F1 Measure = 0.20350000000000001
+Majority Class F1 Measure = 0.351
